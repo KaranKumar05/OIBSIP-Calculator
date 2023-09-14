@@ -85,3 +85,8 @@ background-color: #474747;
     width: 112px;
     background-color: #e6a845;
 }
+@media (max-width:380px) {
+    body{
+        background-color: #434343;
+    }
+}
